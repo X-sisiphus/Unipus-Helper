@@ -9,5 +9,6 @@ window.keys = [
   'key_2_8',
   'key_3_1',
   'key_3_2',
+  'key_3_5',
   'key_3_7'
 ]
